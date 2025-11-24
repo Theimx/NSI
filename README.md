@@ -21,12 +21,12 @@ Programme de NSI 1ERE et TERMINAL (2024-2026).
 **TP-04-Carte-NSI.py** : 1  lines   
 **TP-05-Pile-NSI.py** : 27  lines   
    
-Evaluation-Python-NSI-01.py : 110  lines   
-Evaluation-Python-NSI-02.py : 74  lines   
-Evaluation-Python-NSI-03.py : 37  lines   
-Evaluation-Python-NSI-04.py : 55  lines   
-Epreuve-Ecrite-Bac-NSI-01.py : 10  lines   
-Epreuve-Ecrite-Bac-NSI-03.py : 7  lines   
-Epreuve-Ecrite-Bac-NSI-02.py : 10  lines   
+**Evaluation-Python-NSI-01.py** : 110  lines   
+**Evaluation-Python-NSI-02.py** : 74  lines   
+**Evaluation-Python-NSI-03.py** : 37  lines   
+**Evaluation-Python-NSI-04.py** : 55  lines   
+**Epreuve-Ecrite-Bac-NSI-01.py** : 10  lines   
+**Epreuve-Ecrite-Bac-NSI-03.py** : 7  lines   
+**Epreuve-Ecrite-Bac-NSI-02.py** : 10  lines   
      
 ---
