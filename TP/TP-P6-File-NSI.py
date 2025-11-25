@@ -2,6 +2,7 @@
 # CHAPITRE 3 : TRAVAIL PRATIQUE SUR LES FILES 
 # --------------------------------------------
 
+
 class File:
     def __init__(self):
         self.__file = []  # attribut privé
