@@ -11,3 +11,17 @@ def produire_jeu(n):
 # C.Sujet-Centre-étranger-journée 1-2021-Exercice-5 (4 points)
 
 # D.Sujet-Asie-journée 2-2024-Exercice-2 (6 points)
+import random 
+
+def ajout(f):
+    couleurs = ("bleu","rouge","jaune","vert")
+    indice = randint(0,3)
+    enfiler(f,couleurs[indice])
+    return f
+
+def vider(f):
+    while not f.est_vide() : 
+        f.defiler()
+
+def affich_seq(sequence):
+    stock = []
