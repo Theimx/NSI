@@ -25,3 +25,10 @@ def vider(f):
 
 def affich_seq(sequence):
     stock = []
+
+def tour_de_jeu(sequence):
+
+    stock = creer_file_vide()
+    while not est_vide(sequence) : 
+        c_joueur = saisie_joueur()
+        c_seq = None
